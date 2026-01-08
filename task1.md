@@ -1,5 +1,5 @@
 # Решения  
-1. # Задача 1  
+1. Задача 1  
 [Скрин решения](https://dropmefiles.com/8rnJO)  
 2. # Задача 2  
 [Скрин решения](https://dropmefiles.com/MLy1S)  
